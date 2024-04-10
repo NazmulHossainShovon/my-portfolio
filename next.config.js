@@ -27,8 +27,9 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'images.unsplash.com',
-      },{
+        hostname: 'nazmul.sirv.com',
+      },
+      {
         protocol: 'https',
         hostname: 'source.unsplash.com',
       },
